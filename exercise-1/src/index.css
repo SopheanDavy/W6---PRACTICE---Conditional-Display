@@ -107,5 +107,5 @@ body {
 }
 
 .warning {
-  color: var(--secondary-color);
+  color: orange;
 }
